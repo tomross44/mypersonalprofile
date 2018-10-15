@@ -4,7 +4,6 @@
 .jumbotron{
     background-image: url(Background.png);
 }
-
 .profile {
     height: 160px
 }
@@ -29,7 +28,4 @@
 }
 h1{
     font-family: 'Bitter', serif;
-}
-body{ 
-    font-color: white;
 }
