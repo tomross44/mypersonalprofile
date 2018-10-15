@@ -1,0 +1,35 @@
+.profile {
+    border-radius: 50%;
+}
+.jumbotron{
+    background-image: url(Background.png);
+}
+
+.profile {
+    height: 160px
+}
+.amazon {height: 80px
+}
+.BT {height: 30px
+}
+.KPMG {height: 30px
+}
+.LBS {height: 50px
+}
+.Kellogg {height: 30px
+}
+.BPP {height: 50px
+}
+.UoB {height: 30px
+}
+.profile2 {
+    border-radius: 50%;
+}
+.profile2 {height: 160px
+}
+h1{
+    font-family: 'Bitter', serif;
+}
+body{ 
+    font-color: white;
+}
